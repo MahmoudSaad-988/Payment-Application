@@ -1,0 +1,115 @@
+##############################TRANSACTION##############################
+
+-Card Holder Name:- mahmoud saad elnaggar
+-Card PAN:- 1234567891234567891
+-Card Expiry Date:- 02/25
+-Transaction Date:- 24/10/2022-Transaction Max Amount:- 30000.00
+-Transaction Amount:- 9500.00
+-Balance BEFORE Transaction = 98328.00
+-New Balance =  88828.00
+-Transaction State:- APPROVED
+
+
+##############################TRANSACTION##############################
+
+-Card Holder Name:- mahmoudsaadelnaggar 
+-Card PAN:- 1234567891234567891
+-Card Expiry Date:- 02/25
+-Transaction Date:- 24/10/2022-Transaction Max Amount:- 30000.00
+-Transaction Amount:- 40000.00
+-Balance BEFORE Transaction = 98328.00
+-New Balance =  98328.00
+-Transaction State:- DECLINED_EXEED_MAX_AMOUNT
+
+
+##############################TRANSACTION##############################
+
+-Card Holder Name:- mahmoud saad elnaggar
+-Card PAN:- 1234567891234567891
+-Card Expiry Date:- 02/25
+-Transaction Date:- 24/10/2022-Transaction Max Amount:- 30000.00
+-Transaction Amount:- 4500.00
+-Balance BEFORE Transaction = 98328.00
+-New Balance =  93828.00
+-Transaction State:- APPROVED
+
+#######################################################################
+
+##############################TRANSACTION##############################
+
+-Card Holder Name:- mahmoud saad elnaggar
+-Card PAN:- 1065486947567638746
+-Card Expiry Date:- 04/25
+-Transaction Date:- 24/10/2022-Transaction Max Amount:- 30000.00
+-Transaction Amount:- 20000.00
+-Balance BEFORE Transaction = 12366.00
+-New Balance =  12366.00
+-Transaction State:- DECLINED_INSUFFECIENT_FUND
+
+#######################################################################
+
+##############################TRANSACTION##############################
+
+-Card Holder Name:- mahmoud saad elnagagr
+-Card PAN:- 0123456789123456789
+-Card Expiry Date:- 05/26
+-Transaction Date:- 24/10/2022-Transaction Max Amount:- 30000.00
+-Transaction Amount:- 5000.00
+-Transaction State:- DECLINED_STOLEN_CARD
+
+#######################################################################
+
+##############################TRANSACTION##############################
+
+-Card Holder Name:- mahmoud saad elnaggar
+-Card PAN:- 1234567891234567891
+-Card Expiry Date:- 02/25
+-Transaction Date:- 25/10/2022-Transaction Max Amount:- 0.00
+-Transaction Amount:- 0.00
+-Balance BEFORE Transaction = 98328.00
+-New Balance =  98328.00
+-Transaction State:- DECLINED_EXEED_MAX_AMOUNT
+
+#######################################################################
+
+
+
+
+##############################TRANSACTION##############################
+
+-Card Holder Name:- mahmoud saad elnaggar
+-Card PAN:- 1234567891234567891
+-Card Expiry Date:- 02/26
+-Transaction Date:- 25/10/2022-Transaction Max Amount:- 30000.00
+-Transaction Amount:- 40000.00
+-Balance BEFORE Transaction = 98328.00
+-New Balance =  98328.00
+-Transaction State:- DECLINED_EXEED_MAX_AMOUNT
+
+#######################################################################
+
+
+##############################TRANSACTION##############################
+
+-Card Holder Name:- mahmoud saad elnaggar
+-Card PAN:- 1345678912345678901
+-Card Expiry Date:- 02/25
+-Transaction Date:- 25/10/2022-Transaction Max Amount:- 30000.00
+-Transaction Amount:- 2000.00
+-Transaction State:- DECLINED_STOLEN_CARD
+
+#######################################################################
+
+##############################TRANSACTION##############################
+
+-Card Holder Name:- mahmoud saad elnaggar
+-Card PAN:- 1234567891234567891
+-Card Expiry Date:- 02/25
+-Transaction Date:- 25/10/2022-Transaction Max Amount:- 30000.00
+-Transaction Amount:- 20000.00
+-Balance BEFORE Transaction = 98328.00
+-New Balance =  78328.00
+-Transaction State:- APPROVED
+
+#######################################################################
+
